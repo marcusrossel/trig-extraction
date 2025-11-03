@@ -1,4 +1,5 @@
 import TrigExtraction.Basic
+import TrigExtraction.Egg
 import Lean.Elab.Term
 import Lean.PrettyPrinter
 import Mathlib.Data.Real.Basic
